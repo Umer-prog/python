@@ -1,2 +1,2 @@
-#Hangman Game
+# Hangman Game
 Hangman game without GUI
