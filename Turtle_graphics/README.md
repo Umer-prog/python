@@ -1,6 +1,6 @@
 # Practicing Turtle Graphics
 
-Welcome to my Turtle Graphics practice repository! This repo contains various projects and exercises I've worked on while learning and practicing the Turtle library in Python.
+Welcome to my Turtle Graphics practice repository! This repo contains projects and exercises I've worked on while learning and practicing the Turtle library in Python.
 
 ## Table of Contents
 
