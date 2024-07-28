@@ -10,6 +10,7 @@ Welcome to my Python learning journey repository! This repo is a collection of a
 - [Introduction](#introduction)
 - [Basic Python Programs](#basic-python-programs)
 - [Non-GUI Games](#non-gui-games)
+- [Python libraries](#python-libraries)
 - [Intermediate GUI Apps](#intermediate-gui-apps)
 
 ## Introduction
