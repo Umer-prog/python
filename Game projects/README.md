@@ -24,8 +24,16 @@ By working on these projects, I aim to:
 
 ## Included Games
 
+- Hangman
+- Higher lower
+- Black jack
+- Number guessing
+- rock paper scissors
+- treasure finding
 
-
+- Snake
+- pong
+  
 Feel free to explore the code, play the games, and provide any feedback or suggestions. I'm always looking to improve and learn more!
 
 Happy coding and gaming!
